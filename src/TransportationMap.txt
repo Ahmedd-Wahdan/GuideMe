@@ -1,0 +1,6 @@
+Luxor Aswan 0 0 0 0 Train 170 Boat 500 Uber 1000 
+Hurghada Alexandria 0 0 0 0 Plane 3210 Bus 420 
+Aswan Cairo 0 0 0 0 train 550 Bus 400 
+Cairo Faiyum 0 0 0 0 Uber 1230 Bus 60 
+Cairo Alexandria 0 0 0 0 Microbus 200 Bus 415 
+Alexandria Faiyum 0 0 0 0 taxi 100 
